@@ -1,2 +1,1 @@
-# Java Tutorials in YouTube by Bhuwan Prasad Upadhyay
-
+# Java Tutorials in YouTube <https://www.youtube.com/channel/UCMbPIQMI_aEvicTae-b00-w>
